@@ -33,3 +33,6 @@
 ;; indentation
 (setq-default indent-tabs-mode nil)
 (setq-default c-basic-offset 4)
+
+;; display line number
+(global-linum-mode t)
