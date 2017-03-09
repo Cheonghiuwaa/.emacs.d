@@ -41,7 +41,10 @@
 
 (setq-default indent-tabs-mode nil)
 (setq-default c-basic-offset 4)
+<<<<<<< HEAD
 (c-set-offset 'case-label '+)
+=======
+>>>>>>> 3a97622c0f74c1ed8e7330d39838a90b2ff54dbe
 
 ;; display line number
 (global-linum-mode t)
