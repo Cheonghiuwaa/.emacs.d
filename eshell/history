@@ -3,3 +3,33 @@ tree
 ls
 ews
 ews
+cat output.txt 
+cd Downloads/
+clear
+
+ls
+mv potd-37.sh ../Desktop/
+cd ../Desktop/
+sh potd-37.sh 
+cd potd-q37/
+ls
+cd ..
+cd whiplash/
+cd potd-q36
+ls
+cd ../potd-q35/
+ls
+cd ../De
+cd ..
+cd ..
+cd potd-q37/
+make
+./main 
+make
+./main 
+make
+make
+./main 
+make
+make
+./main 
