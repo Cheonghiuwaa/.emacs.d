@@ -10,6 +10,11 @@
     ("marmalade" . "https://marmalade-repo.org/packages/")
     ("melpa" . "http://melpa.milkbox.net/packages/")))
 
+
+(eval-after-load 'company
+  '(add-to-list 'company-backends 'company-irony))
+
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

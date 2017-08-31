@@ -33,3 +33,8 @@ make
 make
 make
 ./main 
+(+ 1 8 27)
+python3 temp.py 
+ls
+python
+python3
